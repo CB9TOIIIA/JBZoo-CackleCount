@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="cacklecount" group="CB9TOIIIA">
+	<name>Cackle Count</name>
+	<author>CB9TOIIIA</author>
+	<creationDate>November 2015</creationDate>
+	<copyright>Copyright (C) CB9T.ru</copyright>
+	<authorEmail>cb9toiiia@gmail.com</authorEmail>
+	<authorUrl>http://www.cb9t.ru</authorUrl>
+	<version>2.5.0</version>
+	<description>Cackle Count</description>
+	<params group="render">
+		<param name="channel" type="radio" default="0" label="Вариант channel" description="">
+			<option value="1">item-id</option>
+			<option value="0">cackleurl</option>
+		</param>
+	</params>
+</element>
